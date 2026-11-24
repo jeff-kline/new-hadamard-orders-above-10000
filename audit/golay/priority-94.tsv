@@ -1,0 +1,95 @@
+order	odd_part	target_exponent	priority_status	smallest_larger_dyadic_order_located_in_original_scan	earlier_witness_at_target	proof_note
+69232	4327	4	priority unresolved	553856		
+76144	4759	4	priority unresolved	152288		
+86512	5407	4	priority unresolved	173024		
+90224	5639	4	priority unresolved	721792		
+100784	6299	4	priority unresolved	201568		
+101488	6343	4	priority unresolved	405952		
+105712	6607	4	priority unresolved	211424		
+119920	7495	4	priority unresolved	959360		
+126832	7927	4	priority unresolved	507328		
+138464	4327	5	priority unresolved	553856		
+151664	9479	4	priority unresolved	303328		
+152176	9511	4	priority unresolved	304352		
+169072	10567	4	priority unresolved	676288		
+178912	5591	5	priority unresolved	357824		
+179824	11239	4	priority unresolved	359648		
+180448	5639	5	priority unresolved	721792		
+192112	12007	4	priority unresolved	768448		
+193712	12107	4	earlier construction verified		H(96856) doubled	priority-later.md
+199616	3119	6	priority unresolved	399232		
+202976	6343	5	priority unresolved	405952		
+225392	14087	4	priority unresolved	450784		
+229552	14347	4	priority unresolved	918208		
+238064	14879	4	priority unresolved			
+239728	14983	4	priority unresolved	958912		
+239840	7495	5	priority unresolved	959360		
+253664	7927	5	priority unresolved	507328		
+274672	17167	4	priority unresolved			
+276928	4327	6	priority unresolved	553856		
+287968	8999	5	priority unresolved			
+299456	4679	6	priority unresolved			
+312112	19507	4	priority unresolved			
+324592	20287	4	priority unresolved	649184		
+329584	20599	4	priority unresolved	659168		
+331888	20743	4	priority unresolved			
+338144	10567	5	priority unresolved	676288		
+360896	5639	6	priority unresolved	721792		
+361568	11299	5	priority unresolved	723136		
+379328	5927	6	priority unresolved	758656		
+384112	24007	4	priority unresolved			
+384224	12007	5	priority unresolved	768448		
+387424	12107	5	earlier construction verified		H(96856) doubled twice	priority-later.md
+394336	12323	5	earlier construction verified	788672	H(98584) doubled twice	priority-later.md
+399472	24967	4	priority unresolved	798944		
+411952	25747	4	priority unresolved	823904		
+459104	14347	5	priority unresolved	918208		
+460912	28807	4	priority unresolved			
+476128	14879	5	priority unresolved			
+479456	14983	5	priority unresolved	958912		
+479680	7495	6	priority unresolved	959360		
+486592	7603	6	priority unresolved	973184		
+486832	30427	4	priority unresolved			
+492736	7699	6	priority unresolved	985472		
+494432	15451	5	priority unresolved	988864		
+506992	31687	4	priority unresolved			
+507488	15859	5	priority unresolved			
+549344	17167	5	priority unresolved			
+551872	8623	6	priority unresolved			
+575936	8999	6	priority unresolved			
+576112	36007	4	priority unresolved			
+589664	18427	5	priority unresolved			
+589936	36871	4	priority unresolved			
+598912	4679	7	earlier construction verified		Craigen Theorem 6(4), t=2, L=35, g=2304	priority-ternary-bulk.md
+605152	18911	5	priority unresolved			
+617152	9643	6	priority unresolved			
+624224	19507	5	priority unresolved			
+624992	19531	5	priority unresolved			
+663664	41479	4	priority unresolved			
+663776	20743	5	priority unresolved			
+678752	21211	5	priority unresolved			
+699872	21871	5	priority unresolved			
+748912	46807	4	priority unresolved			
+757360	47335	4	earlier construction verified		Agaian applied to H(75736) and H(20)	priority-later.md
+760992	23781	5	earlier construction verified		Craigen Theorem 6(4), t=1, L=10, g=11880	priority-ternary-bulk.md
+768224	24007	5	priority unresolved			
+774848	12107	6	earlier construction verified		H(96856) doubled three times	priority-later.md
+798832	49927	4	priority unresolved			
+811120	50695	4	priority unresolved			
+823792	51487	4	priority unresolved			
+830656	12979	6	priority unresolved			
+836032	13063	6	priority unresolved			
+844768	26399	5	priority unresolved			
+861632	13463	6	priority unresolved			
+875456	13679	6	priority unresolved			
+902240	28195	5	priority unresolved			
+913504	28547	5	priority unresolved			
+917680	57355	4	priority unresolved			
+921824	28807	5	priority unresolved			
+933728	29179	5	priority unresolved			
+950512	59407	4	priority unresolved			
+952256	14879	6	earlier construction verified		Craigen–Kharaghani Corollary 10, quad length 14878	priority-ternary-bulk.md
+955072	14923	6	priority unresolved			
+973664	30427	5	priority unresolved			
+995264	15551	6	priority unresolved			
+996448	31139	5	earlier construction verified		H(249112) doubled twice	priority-later.md

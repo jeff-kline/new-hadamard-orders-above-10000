@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "Please cite Version 0.1.0 of this research repository."
+title: "New Hadamard orders above 10^4"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Kline
+    given-names: Jeffery
+repository-code: "https://github.com/jeff-kline/new-hadamard-orders-above-10000"
+url: "https://github.com/jeff-kline/new-hadamard-orders-above-10000"
+license: GPL-3.0-only
+abstract: >-
+  The paper constructs Hadamard matrices of six orders: 159052 = 4·17·2339,
+  824332 = 4·206083, 22425772 = 4·31·223·811, 25072 = 16·1567,
+  46192 = 16·2887 and 47968 = 32·1499. The first three come from a theorem:
+  a quaternary conference matrix of order n+1 with n odd and a prime
+  q = 2n^r - 1 give a Hadamard matrix of order 4(2n^r + 1). The proof combines
+  Turyn's power construction for conference matrices, extended to
+  non-Hermitian quaternary matrices, with Kumar's 2026 quaternary form of
+  Yamada's construction of order 4(q+2); the inputs are quaternary conference
+  matrices of orders 142 and 322 published by Zaitsev and by Kumar. No
+  construction checked by the author reaches these three orders from
+  previously known ingredients. The last three come from a second
+  construction, which places two dihedral Golay pairs of Kamali and
+  Kharaghani on commuting tensor factors and gives a Hadamard matrix of order
+  16(m+n); each is half the smallest order previously recorded for its odd
+  part. The repository verifies the ingredients exactly and the large
+  matrices by exact or randomized Gram checks. Novelty is bounded to the
+  sources searched.
+keywords:
+  - Hadamard matrices
+  - conference matrices
+  - quaternary Hadamard matrices
+  - Golay sequences
+references:
+  - type: article
+    title: "On C-matrices of arbitrary powers"
+    authors:
+      - family-names: Turyn
+        given-names: Richard J.
+    journal: "Canadian Journal of Mathematics"
+    volume: 23
+    year: 1971
+  - type: article
+    title: "Dihedral Golay sequences"
+    authors:
+      - family-names: Kamali
+        given-names: F.
+      - family-names: Kharaghani
+        given-names: Hadi
+    journal: "Australasian Journal of Combinatorics"
+    volume: 18
+    year: 1998
+  - type: software
+    title: "New Hadamard matrices"
+    authors:
+      - family-names: Kumar
+        given-names: K.
+    url: "https://github.com/vatskishan03/Hadamard"
+    year: 2026

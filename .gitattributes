@@ -1,0 +1,2 @@
+# Tab-separated records keep empty trailing fields.
+*.tsv -whitespace

@@ -1,0 +1,39 @@
+order	odd_part	priority	source_or_scope	verified_parameters
+125360	7835	unresolved	No prior witness found; no verified publication declaring this target open	Older H(250720)=8*(3840+27500)
+207696	12981	unresolved	No prior witness found; no verified publication declaring this target open	
+270672	16917	unresolved	No prior witness found; no verified publication declaring this target open	
+302352	18897	unresolved	No prior witness found; no verified publication declaring this target open	
+323344	20209	unresolved	No prior witness found; no verified publication declaring this target open	
+325936	20371	unresolved	No prior witness found; no verified publication declaring this target open	
+370384	23149	unresolved	No prior witness found; no verified publication declaring this target open	
+380496	23781	unresolved	No prior witness found; no verified publication declaring this target open	
+380720	23795	unresolved	No prior witness found; no verified publication declaring this target open	
+437584	27349	unresolved	No prior witness found; no verified publication declaring this target open	
+451120	28195	unresolved	No prior witness found; no verified publication declaring this target open	
+456528	28533	unresolved	No prior witness found; no verified publication declaring this target open	
+476368	29773	unresolved	No prior witness found; no verified publication declaring this target open	
+508112	31757	unresolved	No prior witness found; no verified publication declaring this target open	
+513296	32081	previously constructible	Balonin-Djokovic Prop. 8; Xia et al. Thm. 4; Finlayson-Seberry Thm. 4	Q=73327, s=18332, t=7
+540464	33779	previously constructible	Seberry-Yamada 1990, Corollaries 29(ii) and 40; doubling	q=16889, symmetric H(8444), earlier H(270232)
+559888	34993	unresolved	No prior witness found; no verified publication declaring this target open	
+576336	36021	unresolved	No prior witness found; no verified publication declaring this target open	
+623088	38943	unresolved	No prior witness found; no verified publication declaring this target open	
+631568	39473	unresolved	No prior witness found; no verified publication declaring this target open	
+652624	40789	unresolved	No prior witness found; no verified publication declaring this target open	
+670928	41933	previously constructible	Balonin-Djokovic Prop. 8; Xia et al. Thm. 4; Finlayson-Seberry Thm. 4	Q=35311, s=8828, t=19
+705488	44093	unresolved	No prior witness found; no verified publication declaring this target open	
+727088	45443	previously constructible	Seberry-Yamada 1990, Corollaries 29(ii) and 40; doubling	q=22721, symmetric H(11360), earlier H(363544)
+760880	47555	unresolved	No prior witness found; no verified publication declaring this target open	
+777232	48577	unresolved	No prior witness found; no verified publication declaring this target open	
+785264	49079	unresolved	No prior witness found; no verified publication declaring this target open	
+806608	50413	previously constructible	Balonin-Djokovic Prop. 8; Xia et al. Thm. 4; Finlayson-Seberry Thm. 4	Q=73327, s=18332, t=11
+812176	50761	previously constructible	Balonin-Djokovic Prop. 8; Xia et al. Thm. 4; Finlayson-Seberry Thm. 4	Q=35311, s=8828, t=23
+815456	25483	unresolved	No prior witness found; no verified publication declaring this target open	
+828368	51773	unresolved	No prior witness found; no verified publication declaring this target open	
+877648	54853	unresolved	No prior witness found; no verified publication declaring this target open	
+899120	56195	previously constructible	Seberry-Yamada 1990, Corollaries 29(ii) and 40; doubling	q=28097, symmetric H(14048), earlier H(449560)
+899504	56219	unresolved	No prior witness found; no verified publication declaring this target open	
+915760	57235	previously constructible	Balonin-Djokovic Prop. 8; Xia et al. Thm. 4; Finlayson-Seberry Thm. 4	Q=183151, s=45788, t=5
+921968	57623	unresolved	No prior witness found; no verified publication declaring this target open	
+951632	59477	unresolved	No prior witness found; no verified publication declaring this target open	
+953264	59579	previously constructible	Balonin-Djokovic Prop. 8; Xia et al. Thm. 4; Finlayson-Seberry Thm. 4	Q=73327, s=18332, t=13

@@ -1,0 +1,8 @@
+159052 = 4*39763, m = {17: 1, 2339: 1}: NOT REACHED
+824332 = 4*206083, m = {206083: 1}: NOT REACHED
+22425772 = 4*5606443, m = {31: 1, 223: 1, 811: 1}: NOT REACHED
+2572 = 4*643, m = {643: 1}: REACHED by Williamson array WT(m); Yamada / Kumar 4(q+2), q=641, core order 322 (over-approx)
+5788 = 4*1447, m = {1447: 1}: REACHED by Williamson array WT(m); EKLO Thm 7 family 4(4q^2+3)
+9172 = 4*2293, m = {2293: 1}: REACHED by Williamson array WT(m); Miyamoto I
+2396 = 4*599, m = {599: 1}: REACHED by Williamson array WT(m)
+9356 = 4*2339, m = {2339: 1}: NOT REACHED

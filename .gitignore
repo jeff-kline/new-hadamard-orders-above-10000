@@ -1,0 +1,10 @@
+build/
+paper/*.aux
+paper/*.log
+paper/*.out
+.DS_Store
+build/
+inputs/QH566.txt
+paper/*.aux
+paper/*.log
+paper/*.out
