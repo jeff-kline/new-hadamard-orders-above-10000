@@ -79,7 +79,9 @@ The odd parts 206083, 1567, 2887 and 1499 are prime.
   and Kharaghani already give $8(m+n)$; the new cases have a dihedral pair.
 - **Theorem D.** Hadamard matrices of sizes $25072=16\cdot1567$,
   $46192=16\cdot2887$ and $47968=32\cdot1499$. Kumar's table records only
-  twice these sizes for the three odd parts.
+  twice these sizes for the three odd parts. The sizes $4\cdot1567$,
+  $4\cdot2887$ and $4\cdot1499$ remain open; these results lower the least
+  known power of 2 for the three odd parts.
 - Theorem C, and a classical larger-fill variant of order $16k(m+n)$, give
   further sizes up to $10^6$ (85 and 29 respectively) for which no earlier
   construction was located. We do not claim them: no table covers them, and
