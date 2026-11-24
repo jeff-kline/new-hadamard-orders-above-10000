@@ -1,0 +1,5 @@
+# Tested modular Sage distribution for the selected shared Python 3.9 venv.
+passagemath-combinat==10.5.49
+passagemath-modules==10.5.49
+passagemath-graphs==10.5.49
+passagemath-flint==10.5.49

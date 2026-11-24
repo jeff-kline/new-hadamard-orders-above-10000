@@ -1,2 +1,4 @@
 # Tab-separated records keep empty trailing fields.
 *.tsv -whitespace
+# Records copied unchanged from the working notes.
+audit/golay/** -whitespace

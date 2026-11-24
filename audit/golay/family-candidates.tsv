@@ -1,0 +1,95 @@
+order	odd_part	power_of_two	length_1	length_2	first_surviving_order	older_order_in_window	older_source	after_family_propagation
+69232	4327	16	7	4320	69232	553856	scalar complex Golay	direct family input
+76144	4759	16	7	4752	76144	152288	Paley	direct family input
+86512	5407	16	7	5400	86512	173024	Paley	direct family input
+90224	5639	16	7	5632	90224	721792	Craigen shifted base sequences	direct family input
+100784	6299	16	7	6292	100784	201568	scalar complex Golay	direct family input
+101488	6343	16	7	6336	101488	405952	scalar complex Golay	direct family input
+105712	6607	16	7	6600	105712	211424	scalar complex Golay	direct family input
+119920	7495	16	7	7488	119920	959360	Agaian	direct family input
+126832	7927	16	7	7920	126832	507328	scalar complex Golay	direct family input
+138464	4327	32	14	8640	69232	553856	scalar complex Golay	from earlier family orders: doubling
+151664	9479	16	15	9464	151664	303328	scalar complex Golay	direct family input
+152176	9511	16	7	9504	152176	304352	scalar complex Golay	direct family input
+169072	10567	16	7	10560	169072	676288	scalar complex Golay	direct family input
+178912	5591	32	182	11000	178912	357824	Paley	direct family input
+179824	11239	16	7	11232	179824	359648	scalar complex Golay	direct family input
+180448	5639	32	14	11264	90224	721792	Craigen shifted base sequences	from earlier family orders: doubling
+192112	12007	16	7	12000	192112	768448	Craigen-Kharaghani four sequences	direct family input
+193712	12107	16	7	12100	193712			direct family input
+199616	3119	64	4732	7744	199616	399232	Craigen-Kharaghani four sequences	direct family input
+202976	6343	32	14	12672	101488	405952	scalar complex Golay	from earlier family orders: doubling
+225392	14087	16	7	14080	225392	450784	scalar complex Golay	direct family input
+229552	14347	16	11	14336	229552	918208	scalar complex Golay	direct family input
+238064	14879	16	7	14872	238064			direct family input
+239728	14983	16	7	14976	239728	958912	Craigen-Kharaghani four sequences	direct family input
+239840	7495	32	14	14976	119920	959360	Agaian	from earlier family orders: doubling
+253664	7927	32	14	15840	126832	507328	scalar complex Golay	from earlier family orders: doubling
+274672	17167	16	7	17160	274672			direct family input
+276928	4327	64	28	17280	69232	553856	scalar complex Golay	from earlier family orders: doubling
+287968	8999	32	78	17920	287968			direct family input
+299456	4679	64	1820	16896	299456			direct family input
+312112	19507	16	7	19500	312112			direct family input
+324592	20287	16	7	20280	324592	649184	Paley	direct family input
+329584	20599	16	7	20592	329584	659168	scalar complex Golay	direct family input
+331888	20743	16	7	20736	331888			direct family input
+338144	10567	32	14	21120	169072	676288	scalar complex Golay	from earlier family orders: doubling
+360896	5639	64	28	22528	90224	721792	Craigen shifted base sequences	from earlier family orders: doubling
+361568	11299	32	70	22528	361568	723136	Craigen-Kharaghani four sequences	direct family input
+379328	5927	64	1400	22308	379328	758656	Craigen shifted base sequences	direct family input
+384112	24007	16	7	24000	384112			direct family input
+384224	12007	32	14	24000	192112	768448	Craigen-Kharaghani four sequences	from earlier family orders: doubling
+387424	12107	32	14	24200	193712			from earlier family orders: doubling
+394336	12323	32	70	24576	394336	788672	Craigen-Kharaghani four sequences	direct family input
+399472	24967	16	7	24960	399472	798944	Paley	direct family input
+411952	25747	16	7	25740	411952	823904	Paley	direct family input
+459104	14347	32	22	28672	229552	918208	scalar complex Golay	from earlier family orders: doubling
+460912	28807	16	7	28800	460912			direct family input
+476128	14879	32	14	29744	238064			from earlier family orders: doubling
+479456	14983	32	14	29952	239728	958912	Craigen-Kharaghani four sequences	from earlier family orders: doubling
+479680	7495	64	28	29952	119920	959360	Agaian	from original three: Agaian
+486592	7603	64	2912	27500	486592	973184	scalar complex Golay	direct family input
+486832	30427	16	7	30420	486832			direct family input
+492736	7699	64	7500	23296	492736	985472	Paley	direct family input
+494432	15451	32	14	30888	494432	988864	scalar complex Golay	direct family input
+506992	31687	16	7	31680	506992			direct family input
+507488	15859	32	3718	28000	507488			direct family input
+549344	17167	32	14	34320	274672			from earlier family orders: doubling
+551872	8623	64	700	33792	551872			direct family input
+575936	8999	64	156	35840	287968			from earlier family orders: doubling
+576112	36007	16	7	36000	576112			direct family input
+589664	18427	32	1014	35840	589664			direct family input
+589936	36871	16	7	36864	589936			direct family input
+598912	4679	128	3640	33792	299456			from earlier family orders: doubling
+605152	18911	32	70	37752	605152			direct family input
+617152	9643	64	9900	28672	617152			direct family input
+624224	19507	32	14	39000	312112			from earlier family orders: doubling
+624992	19531	32	182	38880	624992			direct family input
+663664	41479	16	7	41472	663664			direct family input
+663776	20743	32	14	41472	331888			from earlier family orders: doubling
+678752	21211	32	182	42240	678752			direct family input
+699872	21871	32	182	43560	699872			direct family input
+748912	46807	16	7	46800	748912			direct family input
+757360	47335	16	15	47320	757360			direct family input
+760992	23781	32	242	47320	760992			from earlier family orders: Agaian
+768224	24007	32	14	48000	384112			from earlier family orders: doubling
+774848	12107	64	28	48400	193712			from earlier family orders: doubling
+798832	49927	16	7	49920	798832			direct family input
+811120	50695	16	7	50688	811120			direct family input
+823792	51487	16	7	51480	823792			direct family input
+830656	12979	64	5324	46592	830656			direct family input
+836032	13063	64	4732	47520	836032			direct family input
+844768	26399	32	70	52728	844768			direct family input
+861632	13463	64	7260	46592	861632			direct family input
+875456	13679	64	18876	35840	875456			direct family input
+902240	28195	32	70	56320	902240			from earlier family orders: Agaian
+913504	28547	32	70	57024	913504			direct family input
+917680	57355	16	11	57344	917680			direct family input
+921824	28807	32	14	57600	460912			from earlier family orders: doubling
+933728	29179	32	1014	57344	933728			direct family input
+950512	59407	16	7	59400	950512			direct family input
+952256	14879	64	28	59488	238064			from earlier family orders: doubling
+955072	14923	64	1452	58240	955072			direct family input
+973664	30427	32	14	60840	486832			from earlier family orders: doubling
+995264	15551	64	26364	35840	995264			direct family input
+996448	31139	32	70	62208	996448			direct family input
