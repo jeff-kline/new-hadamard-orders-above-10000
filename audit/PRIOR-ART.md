@@ -44,3 +44,10 @@ input with a larger power of 2. Not opened in this check: Craigen 1995 original 
 Theorem 6 arithmetic in golay/audit-golay.md), Craigen–Holzmann–Kharaghani 2002, the Handbook chapter.
 Neighbouring activity: github.com/vatskishan03/Hadamard reports dihedral pairs of length 25 (last push
 2026-11-06) and uses Kamali–Kharaghani Corollary 9 only; no two-pair theorem and none of the six orders.
+
+## Pre-tag rescan, second pass (24 Nov 2026, immediately before tagging v0.1.0)
+
+`gh search code`: positive control `3356 Hadamard` hit vatskishan03/Hadamard; `159052 Hadamard`,
+`824332 Hadamard`, `25072 Hadamard`, `46192 Hadamard`, `47968 Hadamard`: no hits outside this
+repository; `22425772`: three unrelated repositories (numeric substrings in ML/CFD code).
+vatskishan03/Hadamard: no commits since 2026-11-06. Nothing anticipates the six orders.
