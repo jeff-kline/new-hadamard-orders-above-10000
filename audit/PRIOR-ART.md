@@ -29,3 +29,18 @@ Appendix II (both tabulate odd parts below 10000 by older methods).
 control hit), 11 repositories cloned and grepped, arXiv listings since 2026-11-01, Zenodo, OpenAlex
 cited-by of Kamali–Kharaghani 1998, Turyn 1971 and Glazyrin 2026: nothing anticipates the six orders
 or either mechanism. aiXiv: NOT PERFORMED (no usable search). Repeat within 7 days of any tag.
+
+## Signed-group check for Theorem C (24 Nov 2026)
+
+[reviews/signed-group-check.md](reviews/signed-group-check.md): is Theorem C stated in, or an immediate
+special case of, Craigen's signed-group framework? NOT FOUND. Read in full: Kamali–Kharaghani 1998
+(Theorem 7 needs the second pair real), Kharaghani 1992 (Theorem 9: same formula, amicability
+hypothesis fails for these inputs); partially: Craigen–Kharaghani 1996, Livinskyi's thesis restating
+Craigen 1995 (Lemma 3.1 needs disjoint quasisymmetric circulants; no tensor product of remreps),
+Ghaderpour–Kharaghani (Remark 3 names non-commutation as the obstacle). Craigen–Kharaghani 1997
+Theorem 12 and its final example (pp. 55–58) are covered by the record [golay/audit-golay.md](golay/audit-golay.md):
+Theorem 12 needs commuting, quasisymmetric or amicable inputs, and the example uses a binary second
+input with a larger power of 2. Not opened in this check: Craigen 1995 original (read for the
+Theorem 6 arithmetic in golay/audit-golay.md), Craigen–Holzmann–Kharaghani 2002, the Handbook chapter.
+Neighbouring activity: github.com/vatskishan03/Hadamard reports dihedral pairs of length 25 (last push
+2026-11-06) and uses Kamali–Kharaghani Corollary 9 only; no two-pair theorem and none of the six orders.

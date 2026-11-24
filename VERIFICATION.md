@@ -40,4 +40,4 @@ do not replace the proofs. The large matrices are never stored.
 `make paper` builds [paper/main.pdf](paper/main.pdf) in three passes with
 `SOURCE_DATE_EPOCH` fixed.
 
-PDF SHA-256: `9ec8d685ccf1c04003a3289dfdd0d6465d7c07fe39b187262f2be026a77ecd81`
+PDF SHA-256: `4e70236ff66165967f522694b1a907884c715be97a713b1a1fe5d0dcc9f785fa`

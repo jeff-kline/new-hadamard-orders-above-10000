@@ -1,10 +1,10 @@
 # Admission record
 
-**Current state:** DRAFT
+**Current state:** CANDIDATE
 
 **Verdict:** NOT YET ADMITTED
 
-**Version:** 0.1.0 (in preparation)
+**Version:** 0.1.0 (release candidate)
 
 **Standard:** [A Public Standard for This Work](https://jeff-kline.github.io/posts/research-program/index.html)
 
@@ -33,5 +33,5 @@ README introduction on 2026-11-24.
 | Gate | Status |
 |---|---|
 | P1 prior work | PASS with residuals: searches of 24 Nov 2026 in [audit/PRIOR-ART.md](audit/PRIOR-ART.md) and [audit/reviews/p1-rescan-2026-11-24.md](audit/reviews/p1-rescan-2026-11-24.md); not accessible: Seberry–Yamada's enumeration below 40000, Delsarte–Goethals–Seidel 1971, Craigen's unit-weighing papers, Geramita–Seberry Appendix K, Koukouvinos 1988; aiXiv has no usable search |
-| A1 consistency | proof audit and claims/citation audit of 24 Nov 2026, all findings dispositioned in [audit/LEDGER.md](audit/LEDGER.md); an end-to-end read of the assembled paper is still to be done before tagging |
+| A1 consistency | PASS: proof audit, claims/citation audit and an end-to-end read of the assembled paper (24 Nov 2026); all findings dispositioned in [audit/LEDGER.md](audit/LEDGER.md) |
 | R1 stewardship | open: no tag, archive or DOI |

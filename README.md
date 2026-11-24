@@ -2,9 +2,11 @@
 
 Jeffery Kline
 
-**Status: draft.** This repository is being prepared for release under the project's
-[public research standard](https://jeff-kline.github.io/posts/research-program/index.html).
-It has no tag or DOI yet.
+**Status: release candidate for version 0.1.0.** The claims are frozen
+and audited (see [ADMISSION.md](ADMISSION.md)). There is no tag, archive or
+DOI yet, so there is no stable citation. Admission under the project's
+[public research standard](https://jeff-kline.github.io/posts/research-program/index.html)
+is a release decision, not peer review or a correctness certificate.
 
 The paper is [paper/main.pdf](paper/main.pdf); its source is
 [paper/main.tex](paper/main.tex).
@@ -29,7 +31,7 @@ published by Zaitsev and by Kumar. No printed table of known Hadamard sizes
 covers these three sizes, so here "new" means that none of the constructions
 listed in Section 4 of the paper reaches them from previously known
 ingredients. The odd part 206083 of the second size is a prime congruent to
-3 modulo 4, a case that no product construction reaches.
+3 modulo 4, so product constructions do not apply to it.
 
 The last three come from a second construction, which gives a Hadamard matrix
 of size $16(m+n)$ from two dihedral Golay pairs of lengths $m$ and $n$. These
@@ -41,12 +43,10 @@ table.
 
 ## What is new
 
-Turyn (1971) raised a real conference matrix of size $n+1$ to one of size
-$n^r+1$, and Glazyrin (2026) showed that the same construction works for
-Hermitian matrices with unit-modulus entries. Kumar (2026) turned a
-quaternary conference matrix of size $(q+3)/2$ into a Hadamard matrix of size
-$4(q+2)$ for each prime $q\equiv1\pmod 4$, and settled five open sizes below
-$10^4$ that way.
+Turyn's power construction for conference matrices (extended by Glazyrin to
+Hermitian unit-modulus matrices) and Kumar's 2026 quaternary form of Yamada's
+construction were known; Kumar used the latter to settle five open sizes below
+$10^4$. The six sizes, and the construction that gives each:
 
 | Size | Factorization | Construction |
 |---:|---|---|
@@ -73,8 +73,8 @@ The odd parts 206083, 1567, 2887 and 1499 are prime.
   conference matrices (Section 5). Those orders are not certified or tested
   for newness.
 - **Theorem C.** Two dihedral Golay pairs (or complex Golay pairs) of lengths
-  $m$ and $n$ give a Hadamard matrix of size $16(m+n)$. The array is Kamali
-  and Kharaghani's; the new step is to represent the two pairs on independent
+  $m$ and $n$ give a Hadamard matrix of size $16(m+n)$. The array is Craigen's
+  form of the Goethals–Seidel array, as used by Kamali and Kharaghani; the new step is to represent the two pairs on independent
   tensor factors so that they commute. For two complex pairs, Craigen, Holzmann
   and Kharaghani already give $8(m+n)$; the new cases have a dihedral pair.
 - **Theorem D.** Hadamard matrices of sizes $25072=16\cdot1567$,
@@ -87,7 +87,7 @@ The odd parts 206083, 1567, 2887 and 1499 are prime.
 
 Not new: the power construction (Turyn; Belevitch for $r=2$; Glazyrin for the
 Hermitian case), Kumar's template and its two input matrices, Turyn's
-doubling, the Kamali–Kharaghani array and seeds, and Kharaghani's 1992 order
+doubling, Craigen's array, the Kamali–Kharaghani seeds, and Kharaghani's 1992 order
 formula $4k(m+n)$, whose hypotheses these inputs do not meet. The size 47920
 follows from published results of Du and Jiang; the paper notes it as a
 remark. Novelty is bounded by the searches recorded in
@@ -112,7 +112,7 @@ remark. Novelty is bounded by the searches recorded in
   Hadamard matrix of order 566, found by a method he describes as
   unpublished.
 - **Golay pairs.** Kamali and Kharaghani (1998) introduced dihedral Golay
-  pairs, found them at lengths 7, 9 and 15, and combined one with a binary
+  pairs, found them at lengths 7, 9, 15 and 19 (the first three are used here), and combined one with a binary
   pair. Kharaghani (1992) gave the order formula $4k(m+n)$ for block Golay
   inputs under an amicability hypothesis that the inputs here do not meet.
   Craigen, Holzmann and Kharaghani (2002) gave $8(x+y)$ for complex Golay
@@ -145,7 +145,7 @@ interpreter, for example `make verify PY=.venv/bin/python`.
 | Command | What it checks | Cost |
 |---|---|---|
 | `make fetch` | downloads Zaitsev's QH566 and checks its SHA-256 | one download |
-| `make verify` | controls, orders 159052 and 824332, the openness sieve, and the exact Gram checks of orders 25072, 46192, 47968 | about 2 minutes, one core |
+| `make verify` | controls, orders 159052 and 824332, the openness sieve, and the exact Gram checks of orders 25072, 46192, 47968 | about 1 minute, one core |
 | `make verify-big` | order 22425772 | about 5 minutes, 2 GB, one core |
 | `make paper` | rebuilds `paper/main.pdf` | seconds |
 

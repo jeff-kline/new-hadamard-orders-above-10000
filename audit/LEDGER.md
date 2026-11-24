@@ -27,3 +27,22 @@ AI reviews, not expert peer review.
 | 18 | proof | array cited as KK Theorem 7; it is Craigen's array, KK Lemma 2 | documentation | citation corrected |
 | 19 | p1 | aiXiv has no usable search | residual | logged NOT PERFORMED |
 | 20 | claims | Turyn 1970 pages, Kumar repository locators, Du–Jiang corollary numbers unverified | residual | Kumar locators checked by the orchestrator (C1286.json last changed at commit 86854289, 2026-10-21; CONFERENCE.md Theorems 1 and 3 read in full); Turyn 1970 pages and Du–Jiang corollary numbers open |
+
+## End-to-end read and signed-group check (24 Nov 2026)
+
+[reviews/final-read.md](reviews/final-read.md) (Fable, READY-WITH-FIXES, 26 findings, no proof
+error) and [reviews/signed-group-check.md](reviews/signed-group-check.md) (Fable, NOT FOUND, bounded).
+All 26 final-read findings were applied as proposed, with these choices:
+
+| # | Disposition |
+|---|---|
+| 1 | Section 4 now lists Mathon and Seberry–Whiteman orders and explains why Turyn powers of symmetric conference matrices cannot help (141, 321 and 141³ are not sums of two squares); `conf_like` in code/openness.py left unchanged |
+| 2 | the "not reached" sentence moved from Theorem B to a remark |
+| 6 | [Ku26] now also locates `FRONTIER.md` at commit d885022 (6 Nov 2026) |
+| 14 | Craigen, Complex Golay sequences (JCMCC 15, 1994) cited for the array, as in Kamali–Kharaghani's Lemma 2 |
+| 15 | Craigen 1995 cited for the signed-group expansion; the nine earlier constructions of the larger-fill remark point to the repository records instead of naming sources without locators; the Craigen–Holzmann–Kharaghani corollary number is not given (not verified at source) |
+| 23 | the README "What is new" keeps one sentence of credit before the table, as the release standard requires |
+| 26 | draft markers replaced by release-candidate wording; evidence and PDF hash refreshed |
+
+Signed-group residual (Craigen–Kharaghani 1997 Theorem 12) is covered by golay/audit-golay.md; see
+PRIOR-ART.md.

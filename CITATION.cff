@@ -23,8 +23,8 @@ abstract: >-
   previously known ingredients. The last three come from a second
   construction, which places two dihedral Golay pairs of Kamali and
   Kharaghani on commuting tensor factors and gives a Hadamard matrix of order
-  16(m+n); each is half the smallest order previously recorded for its odd
-  part. The repository verifies the ingredients exactly and the large
+  16(m+n); each is half the smallest order recorded for its odd part in
+  Kumar's 2026 table. The repository verifies the ingredients exactly and the large
   matrices by exact or randomized Gram checks. Novelty is bounded to the
   sources searched.
 keywords:
