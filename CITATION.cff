@@ -9,6 +9,15 @@ authors:
 repository-code: "https://github.com/jeff-kline/new-hadamard-orders-above-10000"
 url: "https://github.com/jeff-kline/new-hadamard-orders-above-10000"
 license: GPL-3.0-only
+doi: 10.5281/zenodo.24517277
+date-released: 2026-11-24
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24517277
+    description: "Version DOI for release 0.1.0"
+  - type: doi
+    value: 10.5281/zenodo.24517276
+    description: "Concept DOI (all versions)"
 abstract: >-
   The paper constructs Hadamard matrices of six orders: 159052 = 4·17·2339,
   824332 = 4·206083, 22425772 = 4·31·223·811, 25072 = 16·1567,

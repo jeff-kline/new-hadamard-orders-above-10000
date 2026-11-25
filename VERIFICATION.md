@@ -38,6 +38,10 @@ do not replace the proofs. The large matrices are never stored.
 ## Paper
 
 `make paper` builds [paper/main.pdf](paper/main.pdf) in three passes with
-`SOURCE_DATE_EPOCH` fixed.
+`SOURCE_DATE_EPOCH` fixed. Two builds give identical bytes.
 
-PDF SHA-256: `9e4a08fc8d53943ff9ce79e9b6cadcc5ae66d339a569e2e49b883d3307e30ce9`
+PDF SHA-256: `3cc8f31860a31d71b418f252fe39b196e2c6816ced13637261cf55c1b7713d5b`
+
+The PDF in the tagged `v0.1.0` archive has SHA-256
+`9e4a08fc8d53943ff9ce79e9b6cadcc5ae66d339a569e2e49b883d3307e30ce9`; the living
+copy differs only in its title-page line, which now carries the version DOI.
